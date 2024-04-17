@@ -4,4 +4,4 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-<img alt="Image of Yaktocat" src=https://github.com/skills/communicate-using-markdown/assets/165302109/514bc1ee-e939-42b3-8324-d431ce81a72a>
+![317970243-bf40291b-970f-4c7a-98f0-4e71ec8e8bea](https://github.com/skills/communicate-using-markdown/assets/165302109/514bc1ee-e939-42b3-8324-d431ce81a72a)
